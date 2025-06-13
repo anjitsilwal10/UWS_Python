@@ -8,7 +8,3 @@ elif grade < 70:
     print('You got a good pass');
 else:
     print('You got an excellent pass');
-
-
-as10 = 'Anjit Silwal';
-print(as10)
