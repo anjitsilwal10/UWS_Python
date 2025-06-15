@@ -10,3 +10,15 @@ person_2_age = 30;
 
 age_list = [person_1_age, person_2_age];
 list_within_a_list = [['red','green','blue'],['yellow','brown','purple']];
+
+print(list_within_a_list);
+
+print(age_list);
+
+print(list_with_different_types);
+
+print(string_list);
+
+print(integer_list);
+
+print(empty_list);
