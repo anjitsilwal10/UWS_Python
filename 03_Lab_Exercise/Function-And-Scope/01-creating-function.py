@@ -28,4 +28,3 @@ def greet_user(first_name, last_name):   #two parameter
 
 greet_user('Samip','Parajuli')
 
-
