@@ -7,7 +7,7 @@ USE_PICKLE = True
 # Import appropriate DAO and define file path
 if USE_PICKLE:
     from dao_pickle import TaskPickleDAO
-    storage_path = "06_Lab_Exercise/DAO/task.pkl"
+    storage_path = "06_Lab_Exercise/DAO/tasks.pkl"
     dao = TaskPickleDAO(storage_path)
 else:
     from dao import TaskCsvDAO
